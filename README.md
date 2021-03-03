@@ -11,7 +11,7 @@ React application, which is a search client for The Star Wars API (https://swapi
 
 ---
 
-![Cone image](https://github.com/x4aekx/cone-app/raw/master/src/image/swapi.png)
+![Cone image](https://github.com/x4aekx/star-wars-app/raw/master/src/image/swapi.png)
 
 ---
 
