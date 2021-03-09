@@ -30,9 +30,10 @@ const useStyles = makeStyles((theme) => ({
 	},
 }))
 
-export const UnitTable: FC = (props: any) => {
+export const UnitTable: FC = (props) => {
 	const classes = useStyles()
 	const data = useSelector(getData)
+	//@ts-ignore
 	const UnitData: any = data.find((item) => item.name === props.match.params.dataName)
 	//@ts-ignore
 	return (

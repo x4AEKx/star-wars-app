@@ -11,6 +11,13 @@ React application, which is a search client for The Star Wars API (https://swapi
 
 ---
 
+## Demonstration:
+
+you can see the project:
+`https://swapi-dev-app.herokuapp.com/`
+
+---
+
 ![Cone image](https://github.com/x4aekx/star-wars-app/raw/main/src/image/swapi.png)
 
 ---
