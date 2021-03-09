@@ -9,12 +9,10 @@ React application, which is a search client for The Star Wars API (https://swapi
 - the search phrase is highlighted in bold (for example Luke **Sky**walker)
 - when selecting a list item, hide the list and display detailed information about the selected resource below the input field
 
----
-
 ## Demonstration:
 
 you can see the project:
-`https://swapi-dev-app.herokuapp.com/`
+https://swapi-dev-app.herokuapp.com/
 
 ---
 
