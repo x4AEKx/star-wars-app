@@ -16,7 +16,7 @@ https://swapi-dev-app.herokuapp.com/
 
 ---
 
-![Cone image](https://github.com/x4aekx/star-wars-app/raw/main/src/image/swapi.png)
+![Cone image](https://github.com/x4aekx/star-wars-app/raw/main/src/image/swapi.gif)
 
 ---
 
